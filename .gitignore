@@ -1,0 +1,15 @@
+node_modules
+.env
+.env.local
+coverage
+coverage.json
+typechain
+
+#Hardhat files
+cache
+.next
+./client/.next
+client/.next
+metadata
+generator
+hashlips_art_engine-main
