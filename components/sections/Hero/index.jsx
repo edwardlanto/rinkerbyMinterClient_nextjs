@@ -2,7 +2,7 @@ import React from 'react';
 import styles from './index.module.css';
 import { useState, useEffect } from 'react';
 import { ethers, BigNumber } from 'ethers';
-import NFTDev from '/Users/edwardlanto/Desktop/minter_nextJSHardhat/artifacts/contracts/NFTDev.sol/NFTDev.json';
+import NFTDev from '../../../artifacts/contracts/NFTDev.sol/NFTDev.json';
 
 function index() {
 	const NFTDevContractAddress ='0x80F895F2B4B1BF363eC3cd2f635DA2Fd6715b3Bf';
